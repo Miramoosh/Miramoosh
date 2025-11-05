@@ -1,9 +1,48 @@
-<h3 align="center">A passionate Back-end developer from India</h3>
+# Hi there 👋 I'm Sanjith R.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/miramoosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="miramoosh" height="30" width="40" /></a>
-</p>
+### Backend Developer in Training | Java & Spring Boot Enthusiast
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+I'm a dedicated learner focused on mastering **backend development** and building robust applications. Currently, I'm diving deep into the powerful combination of **Java** and the **Spring Boot framework**.
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+My main focus right now is on professional backend technologies:
+
+* **Java:** Solidifying core object-oriented programming concepts.
+* **Spring Boot:** Learning how to build scalable REST APIs, handle database integration (like PostgreSQL or MySQL), and understand the Spring ecosystem.
+* **Data Structures & Algorithms (DSA):** Continuously improving my problem-solving skills to write efficient code.
+
+---
+
+## 💻 My Toolbox
+
+While I focus on backend technologies, here are a few tools and languages I enjoy working with:
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot |
+| **Databases** | SQL (e.g., MySQL, PostgreSQL) |
+| **Version Control** | Git, GitHub |
+| **Problem Solving** | DSA, Algorithms |
+
+---
+
+## 🏆 Competitive Programming
+
+You can find my competitive programming progress and solutions on **Codeforces**:
+
+* ➡️ **Codeforces Profile:** [Miramoosh](https://codeforces.com/profile/Miramoosh)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with fellow developers and discussing new projects or learning resources!
+
+* **Connect on LinkedIn:** [Link to your LinkedIn Profile]
+* **Email:** [Your Email Address]
+* **Personal Website/Blog (If you have one):** [Link to your personal site]
+
+<br>
